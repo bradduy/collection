@@ -1,2 +1,5 @@
-# computer_vision
 COMPUTER VISION
+
+Models:
+- LSTM
+- ResNet
